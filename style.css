@@ -360,3 +360,52 @@ section {
 a {
     color: white;
 }
+
+.father-part {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.part-splide {
+    border: 2px solid white;
+    color: white;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.part-splide img {
+    margin-top: 2vw;
+    border-radius: 50%;
+}
+
+.part-splide p {
+    width: 90%;
+    margin-bottom: 2vw;
+    margin-top: 2vw;
+    font-size: 1vw;
+}
+
+.splide__arrow {
+    background-color: transparent;
+    width: 40vw;
+    height: 28vw;
+    border-radius: 0;
+}
+
+.splide__arrow svg {
+    fill: white;
+    height: 5vw;
+    width: 5vw;
+}
+
+.splide__pagination {
+    bottom: -3.5vw;
+}
+
+.splide__pagination__page {
+    width: 0.5vw;
+    height: 0.5vw;
+}

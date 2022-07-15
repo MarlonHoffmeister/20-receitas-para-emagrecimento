@@ -1,0 +1,24 @@
+{
+  "name": "20-receitas-para-emagrecimento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarlonHoffmeister/20-receitas-para-emagrecimento.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarlonHoffmeister/20-receitas-para-emagrecimento/issues"
+  },
+  "homepage": "https://github.com/MarlonHoffmeister/20-receitas-para-emagrecimento#readme",
+  "dependencies": {
+    "@splidejs/splide": "^4.0.7",
+    "@splidejs/splide-extension-auto-scroll": "^0.4.2"
+  }
+}
